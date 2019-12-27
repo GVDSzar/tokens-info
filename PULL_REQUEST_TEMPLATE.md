@@ -36,7 +36,7 @@ Example:
 
 ```json
 {
-    "asset":"NOW-E68",
+    "asset":"NOW",
     "assetMap":"NOW",
     "officialSiteUrl":"https://changenow.io/",
     "contactEmail":"email@now.com",
